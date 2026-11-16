@@ -1,0 +1,26 @@
+column,meaning,type
+id,Unique row ID,identifier
+governorate,Tunisian governorate,categorical
+city,City / locality,categorical
+neighborhood,Neighborhood / zone,categorical
+property_type,"Apartment, House, Villa",categorical
+area_m2,Property area in square meters,numeric
+rooms,Number of rooms,numeric
+bathrooms,Number of bathrooms,numeric
+age,Approximate property age in years,numeric
+state,new / good / needs_renovation,categorical
+floor,Apartment floor; 0 for houses/villas,numeric
+latitude,Approximate latitude,numeric
+longitude,Approximate longitude,numeric
+distance_to_tunis_km,Approximate distance from Tunis center,numeric
+garage,"1 if garage exists, otherwise 0",binary
+garden,"1 if garden exists, otherwise 0",binary
+pool,"1 if pool exists, otherwise 0",binary
+beach_view,"1 if beach view, otherwise 0",binary
+mountain_view,"1 if mountain view, otherwise 0",binary
+elevator,"1 if elevator, otherwise 0",binary
+furnished,"1 if furnished, otherwise 0",binary
+equipped_kitchen,"1 if equipped kitchen, otherwise 0",binary
+central_heating,"1 if central heating, otherwise 0",binary
+air_conditioning,"1 if air conditioning, otherwise 0",binary
+price_tnd,Target: estimated sale price in Tunisian dinars,target

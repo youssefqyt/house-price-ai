@@ -1,0 +1,501 @@
+id,governorate,city,neighborhood,property_type,area_m2,rooms,bathrooms,age,state,floor,latitude,longitude,distance_to_tunis_km,garage,garden,pool,beach_view,mountain_view,elevator,furnished,equipped_kitchen,central_heating,air_conditioning,price_tnd
+1,Tunis,La Marsa,La Marsa,Apartment,150,2,2,2,new,4,36.878938,10.322782,15.0,0,0,0,0,0,0,0,1,0,1,730000
+2,Gabès,Mareth,Mareth,House,221,2,3,21,needs_renovation,0,33.616372,10.293232,354.1,0,0,0,0,0,0,0,1,1,0,121000
+3,Zaghouan,El Fahs,El Fahs,Apartment,107,1,1,21,good,3,36.375558,9.904635,53.9,0,0,0,0,0,1,1,0,0,1,91000
+4,Sfax,Sfax,Route El Ain,House,214,3,3,8,good,0,34.751587,10.699303,232.9,0,1,0,0,0,0,0,1,0,0,288000
+5,Sfax,Sfax,Centre Sfax,Apartment,178,1,1,8,needs_renovation,2,34.739276,10.759574,235.0,1,1,0,0,0,0,1,0,0,0,236000
+6,Ariana,Ariana,Centre Ariana,House,95,4,2,22,good,0,36.8673,10.162889,6.8,1,0,0,0,0,0,0,1,0,1,227000
+7,Ben Arous,Ben Arous,Centre Ben Arous,Apartment,148,4,1,24,good,5,36.753565,10.228044,7.2,1,0,0,0,0,1,1,1,0,1,250000
+8,Béja,Medjez el Bab,Medjez el Bab,House,96,4,2,2,good,0,36.65097,9.611556,53.5,1,1,0,0,0,0,1,1,0,1,81000
+9,Ben Arous,Ben Arous,Centre Ben Arous,Apartment,175,2,2,2,good,0,36.753414,10.227683,7.2,0,0,0,0,1,0,0,1,1,1,335000
+10,Nabeul,Korba,Korba,Apartment,120,3,2,3,good,1,36.576794,10.860463,65.3,0,0,0,0,0,0,0,1,1,1,243000
+11,Sousse,Sousse,Sahloul,Apartment,84,4,1,30,new,6,35.840213,10.610858,114.1,0,0,0,0,0,1,0,0,0,1,247000
+12,Mahdia,Mahdia,Centre Mahdia,Apartment,146,1,1,29,good,0,35.504373,11.062875,164.3,0,0,0,0,0,0,0,0,1,1,197000
+13,Ariana,Ariana,Ennasr,Apartment,82,1,1,0,new,4,36.861845,10.187006,6.2,0,0,0,0,0,1,0,0,0,1,290000
+14,Le Kef,Le Kef,Centre Le Kef,Villa,313,5,2,29,new,0,36.173019,8.705531,148.8,0,0,1,0,0,0,1,1,0,1,339000
+15,Tataouine,Tataouine,Centre Tataouine,Apartment,84,4,1,24,good,2,32.927125,10.449606,431.0,0,0,0,0,0,0,0,1,1,0,67000
+16,Kairouan,Kairouan,Centre Kairouan,House,244,2,3,2,good,0,35.677567,10.096764,125.5,1,0,0,0,0,0,1,0,1,1,208000
+17,Gabès,Gabès,Centre Gabès,House,89,4,3,24,good,0,33.879275,10.100582,324.8,1,0,0,0,0,0,1,1,1,1,76000
+18,Bizerte,Menzel Bourguiba,Menzel Bourguiba,Apartment,99,4,2,3,needs_renovation,5,37.154353,9.785592,52.2,0,0,0,0,0,0,0,1,0,1,115000
+19,Médenine,Djerba Midoun,Midoun,Apartment,103,2,1,12,good,2,33.811488,10.992878,340.5,0,0,0,0,0,0,0,1,0,0,177000
+20,Bizerte,Bizerte,Centre Bizerte,House,174,4,3,19,good,0,37.274266,9.871556,58.7,0,1,0,0,0,0,0,1,0,1,255000
+21,Ben Arous,Ben Arous,Centre Ben Arous,House,216,3,3,30,needs_renovation,0,36.753928,10.231232,7.2,1,0,0,0,0,0,0,1,0,1,281000
+22,Sfax,Sfax,Route El Ain,House,103,5,3,3,new,0,34.749705,10.699695,232.9,1,0,0,0,0,0,0,0,1,0,148000
+23,Gafsa,Gafsa,Centre Gafsa,Villa,178,5,3,22,good,0,34.42459,8.780193,292.1,0,0,0,0,1,0,0,1,0,0,197000
+24,Bizerte,Menzel Bourguiba,Menzel Bourguiba,House,85,4,2,0,good,0,37.153056,9.785919,52.2,0,1,0,0,0,0,0,1,0,0,117000
+25,Tunis,Tunis,Lafayette,Villa,167,3,3,4,new,0,36.813659,10.172014,0.8,0,1,1,0,1,0,1,0,1,0,789000
+26,Sousse,Hammam Sousse,Hammam Sousse,House,244,2,1,26,new,0,35.860184,10.601325,111.5,0,0,0,0,0,0,0,0,1,1,592000
+27,Béja,Medjez el Bab,Medjez el Bab,House,106,2,1,0,good,0,36.64756,9.610691,53.5,0,0,0,0,1,0,0,1,0,0,83000
+28,Nabeul,Hammamet,Hammamet Nord,House,123,4,3,17,new,0,36.404154,10.616839,59.4,0,1,0,0,0,0,0,0,0,1,482000
+29,Gafsa,Gafsa,Centre Gafsa,Apartment,82,3,1,24,good,4,34.424186,8.783631,292.1,0,0,0,0,0,1,1,1,1,1,66000
+30,Sidi Bouzid,Sidi Bouzid,Centre Sidi Bouzid,Apartment,133,1,1,24,good,1,35.036497,9.487131,205.8,0,0,0,0,0,0,0,0,0,1,112000
+31,Béja,Béja,Centre Béja,House,220,2,1,8,good,0,36.719671,9.180613,89.3,1,1,0,0,0,0,1,0,0,1,178000
+32,Tunis,La Marsa,La Marsa,House,250,3,1,23,good,0,36.876425,10.327372,15.0,1,0,1,0,0,0,1,1,1,1,1035000
+33,Sousse,Chott Meriem,Chott Meriem,Apartment,113,2,2,12,new,5,35.938427,10.556627,101.9,0,0,0,0,0,1,0,1,1,1,319000
+34,Mahdia,Ksour Essef,Ksour Essef,House,226,4,2,20,good,0,35.417386,10.992493,170.2,0,1,0,0,0,0,0,1,0,1,229000
+35,Ariana,Ariana,Ennasr,Apartment,160,3,1,26,new,3,36.862364,10.185524,6.2,0,0,0,0,0,1,1,1,1,0,494000
+36,Ben Arous,El Mourouj,El Mourouj,House,200,4,3,24,good,0,36.727971,10.209222,9.0,0,0,0,0,0,0,0,0,0,1,266000
+37,Sousse,Sousse,Centre Sousse,Villa,180,4,4,22,good,0,35.828149,10.635645,116.2,1,1,1,0,0,0,0,1,0,1,477000
+38,Kairouan,Kairouan,Centre Kairouan,Villa,349,5,4,7,good,0,35.681002,10.095419,125.5,1,1,0,0,0,0,0,0,0,0,388000
+39,Tunis,Tunis,El Menzah,Apartment,174,3,1,20,new,5,36.837773,10.165859,4.0,0,0,0,0,0,0,1,0,1,1,617000
+40,Bizerte,Mateur,Mateur,Apartment,106,3,1,25,needs_renovation,4,37.037793,9.666175,52.7,1,0,0,0,0,1,0,0,1,0,99000
+41,Nabeul,Hammamet,Hammamet Sud,Apartment,86,2,2,19,good,3,36.400545,10.615272,59.4,0,0,0,0,0,0,0,1,1,0,213000
+42,Béja,Béja,Centre Béja,Apartment,85,2,1,4,needs_renovation,0,36.724642,9.183282,89.3,0,0,0,0,0,0,0,1,0,0,64000
+43,Nabeul,Hammamet,Hammamet Sud,Apartment,103,3,1,29,good,6,36.399886,10.618798,59.4,0,1,1,0,0,1,1,1,0,1,256000
+44,Béja,Béja,Centre Béja,House,156,2,3,9,good,0,36.723555,9.181508,89.3,1,1,0,0,0,0,0,1,0,1,135000
+45,Manouba,Douar Hicher,Douar Hicher,Apartment,88,4,1,26,good,4,36.831614,10.09876,7.5,0,1,0,0,1,1,0,1,1,1,127000
+46,Monastir,Monastir,Centre Monastir,Apartment,129,1,1,17,good,4,35.779272,10.824358,127.8,0,0,0,0,0,1,0,0,1,0,231000
+47,Gabès,Mareth,Mareth,Apartment,119,4,1,18,good,3,33.620701,10.292024,354.1,1,1,0,0,0,1,1,1,0,0,106000
+48,Bizerte,Mateur,Mateur,Apartment,136,3,1,5,good,0,37.038508,9.662499,52.7,1,1,0,0,0,0,0,1,0,0,152000
+49,Kébili,Kébili,Centre Kébili,Apartment,91,3,2,25,new,0,33.702512,8.968362,360.7,1,0,0,0,0,0,0,0,1,0,74000
+50,Sidi Bouzid,Sidi Bouzid,Centre Sidi Bouzid,Apartment,173,1,1,1,good,5,35.035876,9.481567,205.8,1,0,0,0,0,1,0,1,0,1,169000
+51,Médenine,Médenine,Centre Médenine,Villa,331,6,3,12,good,0,33.354228,10.50931,384.2,0,0,0,0,0,0,1,0,0,0,409000
+52,Siliana,Siliana,Centre Siliana,Apartment,154,3,2,27,good,4,36.08575,9.366926,107.7,0,0,0,0,1,1,0,1,1,1,120000
+53,Nabeul,Korba,Korba,Villa,329,4,2,3,good,0,36.578726,10.854816,65.3,0,1,1,0,0,0,1,1,0,1,915000
+54,Médenine,Médenine,Centre Médenine,Apartment,60,1,1,9,good,2,33.353234,10.504385,384.2,0,0,0,0,0,0,0,1,1,1,43000
+55,Médenine,Médenine,Centre Médenine,Apartment,56,2,1,4,needs_renovation,2,33.352346,10.50564,384.2,0,0,0,0,0,0,0,0,0,1,40000
+56,Kasserine,Kasserine,Centre Kasserine,House,185,2,2,12,good,0,35.167838,8.835357,217.7,1,0,0,0,1,0,0,1,0,1,120000
+57,Zaghouan,Zaghouan,Centre Zaghouan,Apartment,115,2,2,12,good,3,36.403323,10.144673,44.9,1,0,0,0,1,1,0,1,0,1,137000
+58,Médenine,Houmt Souk,Houmt Souk,Apartment,127,4,1,16,good,3,33.875796,10.858316,330.8,0,0,0,0,0,0,1,0,1,1,261000
+59,Sfax,Sfax,Route Teniour,Villa,195,5,3,8,new,0,34.742917,10.792209,235.1,0,1,1,0,0,0,0,1,1,1,424000
+60,Sousse,Sousse,Sahloul,House,192,4,1,14,needs_renovation,0,35.837034,10.611741,114.1,1,1,0,0,0,0,0,1,1,0,442000
+61,Bizerte,Bizerte,Centre Bizerte,Apartment,173,3,2,12,good,2,37.27574,9.87315,58.7,0,0,0,0,0,0,0,0,1,1,319000
+62,Monastir,Moknine,Moknine,Apartment,135,4,1,24,good,1,35.631232,10.900784,145.6,0,0,0,0,0,0,1,1,1,1,167000
+63,Mahdia,Ksour Essef,Ksour Essef,House,242,4,1,9,good,0,35.41609,10.995948,170.2,0,1,0,0,0,0,1,1,0,1,288000
+64,Sousse,Sousse,Sahloul,Apartment,105,3,2,10,good,2,35.838822,10.610237,114.1,0,0,0,0,0,0,0,0,0,1,301000
+65,Médenine,Houmt Souk,Houmt Souk,House,141,3,1,6,good,0,33.872614,10.855674,330.8,0,1,1,0,0,0,1,0,0,1,257000
+66,Gafsa,Gafsa,Centre Gafsa,Apartment,65,2,2,27,needs_renovation,6,34.425017,8.78579,292.1,1,0,0,0,0,1,0,0,1,0,40000
+67,Sfax,Sfax,Route El Ain,Villa,310,3,4,0,new,0,34.748411,10.702607,232.9,0,0,1,0,0,0,0,1,1,0,546000
+68,Siliana,Siliana,Centre Siliana,Apartment,76,3,2,24,good,1,36.084532,9.37026,107.7,1,0,0,1,0,0,1,1,1,1,64000
+69,Médenine,Djerba Midoun,Midoun,House,138,2,1,4,needs_renovation,0,33.811438,10.987361,340.5,0,0,0,0,0,0,1,1,0,1,191000
+70,Bizerte,Mateur,Mateur,Apartment,74,3,2,29,new,0,37.042946,9.660098,52.7,1,0,0,0,0,0,0,0,1,0,82000
+71,Jendouba,Jendouba,Centre Jendouba,Apartment,71,2,2,29,good,2,36.50093,8.777,129.1,0,0,0,0,0,0,0,1,1,1,54000
+72,Zaghouan,El Fahs,El Fahs,Apartment,121,4,1,4,good,3,36.373687,9.906,53.9,0,1,1,0,0,1,1,0,0,1,145000
+73,Zaghouan,El Fahs,El Fahs,House,116,3,1,9,good,0,36.374795,9.906274,53.9,1,1,0,0,1,0,1,1,0,1,129000
+74,Sousse,Chott Meriem,Chott Meriem,Apartment,153,4,1,28,new,5,35.938847,10.561119,101.9,0,0,0,1,0,1,0,0,0,0,595000
+75,Ariana,Ariana,Centre Ariana,House,238,2,3,30,good,0,36.864497,10.168067,6.8,1,0,0,0,0,0,0,0,1,1,649000
+76,Sousse,Port El Kantaoui,El Kantaoui,Apartment,100,4,2,11,needs_renovation,6,35.890036,10.595999,108.0,1,0,0,0,0,1,0,0,0,1,363000
+77,Tozeur,Tozeur,Centre Tozeur,Apartment,97,4,2,23,good,5,33.92294,8.134227,368.5,0,0,0,0,1,0,1,0,1,0,87000
+78,Tunis,La Marsa,La Marsa,House,84,2,3,7,good,0,36.878715,10.326391,15.0,1,0,0,1,0,0,0,1,0,1,320000
+79,Le Kef,Le Kef,Centre Le Kef,Villa,346,7,4,5,good,0,36.173505,8.70254,148.8,0,1,1,0,0,0,0,1,0,0,328000
+80,Médenine,Médenine,Centre Médenine,House,215,2,1,21,needs_renovation,0,33.355486,10.502322,384.2,1,0,0,0,0,0,0,1,0,1,146000
+81,Nabeul,Korba,Korba,Apartment,123,1,1,15,new,2,36.579478,10.857547,65.3,0,0,0,0,0,0,0,1,0,0,239000
+82,Bizerte,Bizerte,Centre Bizerte,Villa,399,6,2,6,good,0,37.273579,9.873392,58.7,0,1,0,0,0,0,0,1,1,0,917000
+83,Monastir,Monastir,Centre Monastir,Apartment,179,1,1,5,good,6,35.777729,10.827312,127.8,1,0,0,0,0,1,0,0,0,0,314000
+84,Bizerte,Menzel Bourguiba,Menzel Bourguiba,Villa,281,4,4,13,good,0,37.152915,9.785924,52.2,1,1,0,0,0,0,0,1,1,0,529000
+85,Monastir,Monastir,Centre Monastir,Apartment,83,4,2,6,good,4,35.776162,10.830659,127.8,1,1,0,0,0,0,1,1,0,0,174000
+86,Tataouine,Tataouine,Centre Tataouine,Villa,303,7,2,10,new,0,32.931349,10.453642,431.0,1,1,0,0,0,0,0,0,0,1,297000
+87,Mahdia,Ksour Essef,Ksour Essef,Apartment,143,3,2,23,new,1,35.420877,10.993712,170.2,0,0,0,0,0,0,0,0,0,1,148000
+88,Sousse,Sousse,Centre Sousse,Villa,153,3,3,15,good,0,35.827526,10.635451,116.2,1,0,0,0,0,0,0,1,0,0,397000
+89,Médenine,Djerba Midoun,Midoun,Apartment,126,2,2,25,good,0,33.805086,10.991219,340.5,0,0,0,0,0,0,1,1,0,0,238000
+90,Mahdia,Mahdia,Centre Mahdia,Apartment,98,2,1,16,needs_renovation,5,35.502492,11.062846,164.3,1,0,0,0,0,1,1,1,1,1,122000
+91,Mahdia,Ksour Essef,Ksour Essef,House,98,5,1,13,needs_renovation,0,35.419096,10.995791,170.2,1,1,0,0,0,0,0,1,1,0,94000
+92,Gabès,Mareth,Mareth,Apartment,95,3,2,1,good,6,33.619235,10.293111,354.1,0,0,0,0,1,1,0,0,0,1,67000
+93,Béja,Medjez el Bab,Medjez el Bab,House,177,4,3,30,good,0,36.646139,9.610394,53.5,0,0,0,0,0,0,0,0,1,1,131000
+94,Ariana,Ariana,Centre Ariana,Apartment,74,1,1,6,new,1,36.864867,10.162406,6.8,0,0,0,0,0,0,0,1,1,0,232000
+95,Béja,Béja,Centre Béja,Apartment,76,2,2,17,good,1,36.726291,9.184079,89.3,0,0,0,1,0,0,0,1,0,1,56000
+96,Médenine,Djerba Midoun,Midoun,House,168,5,1,4,good,0,33.808642,10.992477,340.5,1,1,0,0,0,0,0,1,0,1,323000
+97,Bizerte,Menzel Bourguiba,Menzel Bourguiba,Apartment,180,3,1,23,new,2,37.154157,9.783644,52.2,1,0,0,0,0,0,1,0,0,0,265000
+98,Jendouba,Jendouba,Centre Jendouba,Apartment,171,1,1,12,good,5,36.49866,8.778538,129.1,1,0,0,0,1,1,1,0,0,0,170000
+99,Kairouan,Kairouan,Centre Kairouan,Apartment,148,1,1,24,needs_renovation,0,35.677862,10.098639,125.5,0,0,0,0,0,0,0,0,0,1,96000
+100,Monastir,Moknine,Moknine,Apartment,158,4,2,28,good,5,35.632383,10.903608,145.6,0,0,0,0,0,1,0,0,0,0,210000
+101,Mahdia,Mahdia,Centre Mahdia,Apartment,128,4,1,8,good,4,35.503624,11.064657,164.3,0,0,0,1,0,0,1,0,0,0,202000
+102,Bizerte,Menzel Bourguiba,Menzel Bourguiba,Apartment,106,2,2,26,new,5,37.150525,9.785407,52.2,1,0,0,0,0,0,0,0,0,1,176000
+103,Bizerte,Mateur,Mateur,Villa,255,6,2,19,good,0,37.037975,9.665253,52.7,1,1,0,0,0,0,0,1,0,0,321000
+104,Sousse,Port El Kantaoui,El Kantaoui,Apartment,170,4,1,9,new,1,35.890938,10.593571,108.0,1,1,0,0,0,0,1,1,0,1,778000
+105,Tataouine,Tataouine,Centre Tataouine,Apartment,141,3,1,5,new,3,32.931486,10.450251,431.0,1,0,0,0,0,0,0,1,0,0,115000
+106,Sousse,Hammam Sousse,Hammam Sousse,Apartment,168,4,2,7,good,2,35.857567,10.604684,111.5,0,0,0,0,0,0,1,0,0,0,415000
+107,Zaghouan,Zaghouan,Centre Zaghouan,House,155,5,1,26,good,0,36.403091,10.138027,44.9,0,1,0,0,0,0,0,0,0,1,172000
+108,Sfax,Sfax,Route Teniour,Villa,227,5,3,14,needs_renovation,0,34.744704,10.788873,235.1,1,1,1,0,1,0,1,1,1,0,404000
+109,Tozeur,Tozeur,Centre Tozeur,House,108,2,1,12,good,0,33.92004,8.132576,368.5,0,1,0,0,0,0,0,0,0,0,96000
+110,Sousse,Hammam Sousse,Hammam Sousse,Villa,142,7,2,16,good,0,35.861495,10.603115,111.5,0,0,1,0,0,0,0,0,1,1,412000
+111,Tunis,Tunis,Lafayette,Apartment,88,1,1,17,good,4,36.811231,10.177323,0.8,0,0,0,0,0,1,1,1,0,1,228000
+112,Sousse,Sousse,Sahloul,Apartment,79,3,2,8,new,0,35.838314,10.609582,114.1,0,1,0,1,0,0,1,0,1,1,295000
+113,Tunis,Tunis,Lafayette,Villa,227,5,4,4,good,0,36.814844,10.175086,0.8,0,0,0,0,0,0,0,1,1,1,933000
+114,Bizerte,Bizerte,Centre Bizerte,Apartment,47,3,2,7,good,4,37.272249,9.872791,58.7,0,1,0,0,0,0,0,1,1,1,87000
+115,Béja,Medjez el Bab,Medjez el Bab,Villa,192,5,2,9,needs_renovation,0,36.648468,9.614051,53.5,1,0,0,0,0,0,0,0,0,1,135000
+116,Tataouine,Tataouine,Centre Tataouine,Apartment,135,3,2,2,good,1,32.932287,10.4491,431.0,0,0,0,0,0,0,0,0,1,1,93000
+117,Gabès,Gabès,Centre Gabès,Villa,311,4,2,26,good,0,33.885502,10.098313,324.8,0,0,1,0,0,0,0,0,1,1,336000
+118,Ariana,Raoued,Raoued,Apartment,83,1,1,26,good,2,36.866477,10.189823,6.6,0,0,0,0,0,0,1,0,0,1,176000
+119,Gabès,Gabès,Centre Gabès,Apartment,138,2,2,16,good,2,33.880996,10.096628,324.8,0,0,0,0,0,0,1,1,1,1,128000
+120,Tunis,Tunis,El Menzah,Apartment,131,3,2,10,good,5,36.838668,10.165568,4.0,0,1,0,0,0,0,0,1,0,1,438000
+121,Ariana,Ariana,Centre Ariana,Apartment,152,2,1,30,new,0,36.865179,10.165864,6.8,0,0,0,0,0,0,0,1,1,1,439000
+122,Béja,Medjez el Bab,Medjez el Bab,Villa,330,5,4,30,good,0,36.648906,9.612227,53.5,1,0,0,0,0,0,1,0,1,1,370000
+123,Kairouan,Kairouan,El Mansoura,House,114,3,1,15,good,0,35.681534,10.107551,125.2,1,1,0,0,0,0,0,1,0,1,81000
+124,Sousse,Port El Kantaoui,El Kantaoui,Apartment,174,1,1,21,new,5,35.892929,10.593935,108.0,0,0,0,0,0,0,0,0,1,1,615000
+125,Tunis,Carthage,Carthage,Apartment,171,2,1,29,good,0,36.850493,10.330317,14.2,1,1,0,0,0,0,1,1,1,1,780000
+126,Sidi Bouzid,Sidi Bouzid,Centre Sidi Bouzid,Villa,398,3,3,24,good,0,35.041287,9.486313,205.8,0,0,0,0,0,0,0,1,0,0,342000
+127,Kairouan,Kairouan,Centre Kairouan,Apartment,82,3,1,1,good,5,35.678315,10.09673,125.5,0,1,0,0,0,1,0,1,1,1,78000
+128,Sfax,Sfax,Route El Ain,Apartment,147,2,2,15,good,3,34.749297,10.700498,232.9,1,0,0,0,0,1,0,0,1,0,178000
+129,Nabeul,Nabeul,Centre Nabeul,Apartment,75,4,1,18,good,1,36.454407,10.735449,62.9,1,0,0,0,0,0,1,0,0,1,184000
+130,Tataouine,Tataouine,Centre Tataouine,Villa,207,3,2,10,good,0,32.935325,10.448382,431.0,0,1,1,0,0,0,1,0,0,0,218000
+131,Sousse,Hammam Sousse,Hammam Sousse,Apartment,173,2,1,21,good,3,35.856519,10.603035,111.5,0,0,0,0,0,1,1,1,0,1,348000
+132,Jendouba,Tabarka,Tabarka,Apartment,63,4,1,26,good,3,36.954582,8.75921,127.6,0,0,0,0,0,1,1,1,0,1,93000
+133,Nabeul,Hammamet,Hammamet Nord,Apartment,176,1,1,28,good,2,36.397029,10.616885,59.4,0,0,0,0,0,0,0,1,0,1,482000
+134,Tunis,Carthage,Carthage,House,156,5,2,26,needs_renovation,0,36.850712,10.329922,14.2,1,0,0,0,0,0,0,0,1,1,494000
+135,Monastir,Monastir,Centre Monastir,Apartment,148,2,1,6,good,6,35.772237,10.828268,127.8,1,0,1,0,0,1,0,1,1,0,299000
+136,Tunis,La Marsa,La Marsa,Apartment,89,3,1,9,needs_renovation,4,36.876019,10.325963,15.0,1,0,0,0,0,0,0,1,1,0,368000
+137,Mahdia,Mahdia,Centre Mahdia,Apartment,55,2,2,10,good,1,35.506642,11.059039,164.3,0,0,0,0,0,0,0,0,1,1,96000
+138,Zaghouan,Zaghouan,Centre Zaghouan,Apartment,68,3,2,29,good,2,36.401914,10.146771,44.9,1,0,0,0,0,0,1,1,1,0,78000
+139,Tunis,Tunis,El Menzah,Villa,270,5,2,17,new,0,36.842281,10.164723,4.0,1,0,0,0,0,0,0,1,1,1,1362000
+140,Gabès,Gabès,Centre Gabès,Apartment,50,1,1,24,good,6,33.883188,10.101159,324.8,0,0,0,0,0,1,1,1,1,0,48000
+141,Zaghouan,El Fahs,El Fahs,Apartment,147,3,1,9,needs_renovation,4,36.374848,9.906919,53.9,1,0,0,0,0,1,0,0,0,0,119000
+142,Kairouan,Kairouan,Centre Kairouan,House,239,5,3,15,good,0,35.677391,10.091422,125.5,1,1,0,0,0,0,0,1,0,1,233000
+143,Béja,Béja,Centre Béja,Apartment,52,3,2,19,good,0,36.727012,9.17838,89.3,0,0,0,0,0,0,0,0,0,0,38000
+144,Sfax,Sfax,Route Teniour,Apartment,90,2,2,17,new,3,34.744291,10.785256,235.1,0,0,0,0,0,1,0,0,0,1,146000
+145,Bizerte,Mateur,Mateur,House,136,2,2,18,good,0,37.039129,9.665202,52.7,0,0,0,0,0,0,0,1,1,0,132000
+146,Bizerte,Bizerte,Centre Bizerte,Apartment,71,4,2,11,good,3,37.274141,9.87404,58.7,1,0,0,0,0,1,0,0,1,1,147000
+147,Sousse,Hammam Sousse,Hammam Sousse,House,169,4,1,23,good,0,35.861992,10.601791,111.5,1,0,0,0,0,0,0,1,1,0,363000
+148,Sfax,Sfax,Route Teniour,Apartment,79,1,1,21,needs_renovation,1,34.745655,10.791168,235.1,1,0,0,0,0,0,1,1,0,1,93000
+149,Gafsa,Gafsa,Centre Gafsa,House,221,4,2,19,good,0,34.424995,8.785831,292.1,1,0,0,0,0,0,0,1,1,1,183000
+150,Sousse,Sousse,Sahloul,Apartment,128,2,2,9,good,1,35.841043,10.610718,114.1,0,0,0,1,0,0,0,1,1,1,405000
+151,Le Kef,Le Kef,Centre Le Kef,House,135,3,2,1,new,0,36.173772,8.701299,148.8,0,0,1,0,0,0,0,0,0,1,154000
+152,Zaghouan,El Fahs,El Fahs,Apartment,55,2,1,18,good,3,36.375462,9.90546,53.9,0,0,0,0,1,1,0,0,1,1,49000
+153,Béja,Medjez el Bab,Medjez el Bab,House,150,4,2,21,new,0,36.645502,9.613679,53.5,1,0,0,0,0,0,0,1,0,0,128000
+154,Mahdia,Mahdia,Centre Mahdia,Villa,285,7,4,27,needs_renovation,0,35.507647,11.062566,164.3,0,1,0,0,0,0,0,1,0,1,459000
+155,Kairouan,Kairouan,Centre Kairouan,Apartment,130,1,1,13,good,4,35.676433,10.100617,125.5,1,0,0,0,0,0,0,0,1,0,114000
+156,Manouba,Manouba,Centre Manouba,Apartment,76,4,1,23,good,6,36.810654,10.094338,7.5,0,1,0,0,0,1,0,1,1,1,120000
+157,Tataouine,Tataouine,Centre Tataouine,Apartment,86,3,2,13,good,3,32.932406,10.454732,431.0,0,0,0,0,0,1,0,1,0,0,59000
+158,Jendouba,Tabarka,Tabarka,House,109,3,2,15,needs_renovation,0,36.955577,8.757824,127.6,1,0,0,0,0,0,0,1,0,1,123000
+159,Monastir,Moknine,Moknine,House,218,2,2,15,good,0,35.630536,10.903099,145.6,1,0,0,0,0,0,1,1,1,0,235000
+160,Médenine,Djerba Midoun,Midoun,Apartment,170,4,1,11,good,2,33.80897,10.991521,340.5,0,0,0,0,0,0,0,0,1,1,286000
+161,Ben Arous,Ben Arous,Centre Ben Arous,Apartment,79,3,1,17,new,2,36.750541,10.225936,7.2,1,0,0,1,0,0,0,1,1,1,136000
+162,Gabès,Gabès,Centre Gabès,Villa,245,6,4,26,good,0,33.882301,10.092477,324.8,0,0,0,0,0,0,0,1,1,1,268000
+163,Nabeul,Hammamet,Hammamet Sud,House,107,2,3,4,good,0,36.400359,10.615529,59.4,1,0,0,0,0,0,1,1,1,1,233000
+164,Tunis,Tunis,Lafayette,Apartment,123,4,1,11,needs_renovation,4,36.813295,10.174337,0.8,0,0,0,0,0,1,0,1,0,0,297000
+165,Tunis,Carthage,Carthage,Apartment,132,2,2,22,good,6,36.8543,10.331744,14.2,0,0,1,0,0,1,1,0,1,1,593000
+166,Ben Arous,Ben Arous,Centre Ben Arous,Villa,394,7,4,22,good,0,36.752245,10.233269,7.2,1,0,0,0,0,0,1,1,0,0,827000
+167,Sousse,Sousse,Centre Sousse,House,87,3,2,16,good,0,35.825383,10.635328,116.2,1,0,0,0,0,0,1,0,1,1,196000
+168,Béja,Medjez el Bab,Medjez el Bab,House,243,3,1,23,good,0,36.653152,9.608169,53.5,1,0,0,0,0,0,1,1,1,1,194000
+169,Tunis,Tunis,Centre Ville,Apartment,47,4,1,27,good,1,36.807852,10.179438,0.0,0,0,1,0,0,0,1,1,0,1,154000
+170,Monastir,Monastir,Centre Monastir,Apartment,62,4,2,17,good,4,35.776664,10.828392,127.8,1,0,0,1,0,0,0,1,1,0,115000
+171,Sidi Bouzid,Sidi Bouzid,Centre Sidi Bouzid,Villa,155,4,3,18,new,0,35.038452,9.485121,205.8,1,0,0,0,0,0,1,1,0,1,193000
+172,Monastir,Monastir,Centre Monastir,Apartment,68,3,1,21,good,3,35.772514,10.823556,127.8,0,0,0,1,0,1,0,0,0,1,117000
+173,Bizerte,Bizerte,Centre Bizerte,House,249,2,2,8,good,0,37.275243,9.873712,58.7,1,0,0,0,0,0,0,1,0,1,401000
+174,Zaghouan,Zaghouan,Centre Zaghouan,Villa,204,3,4,20,new,0,36.405185,10.14294,44.9,0,1,0,0,0,0,1,1,0,1,302000
+175,Tozeur,Tozeur,Centre Tozeur,House,113,4,3,22,good,0,33.917154,8.132211,368.5,0,0,0,0,0,0,1,0,1,1,100000
+176,Tataouine,Tataouine,Centre Tataouine,Apartment,156,4,2,26,good,3,32.932985,10.45433,431.0,1,0,0,0,0,1,0,0,1,0,103000
+177,Mahdia,Ksour Essef,Ksour Essef,Apartment,147,2,2,15,good,5,35.418228,10.994369,170.2,0,0,0,0,0,1,1,1,1,0,166000
+178,Gabès,Mareth,Mareth,House,227,4,2,14,new,0,33.618238,10.292636,354.1,1,1,0,0,0,0,0,0,1,1,194000
+179,Sfax,Sfax,Centre Sfax,House,116,5,1,14,good,0,34.743772,10.760744,235.0,0,1,0,0,0,0,1,0,0,1,168000
+180,Manouba,Douar Hicher,Douar Hicher,Apartment,126,1,1,7,needs_renovation,2,36.829469,10.101075,7.5,0,0,0,0,0,0,0,1,1,0,123000
+181,Bizerte,Bizerte,Centre Bizerte,House,94,4,3,8,good,0,37.271949,9.876902,58.7,1,0,0,0,0,0,0,1,1,1,142000
+182,Médenine,Djerba Midoun,Midoun,Apartment,51,2,1,19,new,1,33.808278,10.991808,340.5,0,0,0,0,0,0,0,0,0,1,94000
+183,Bizerte,Bizerte,Centre Bizerte,House,201,2,2,14,new,0,37.274248,9.872998,58.7,0,1,0,0,0,0,1,1,1,1,356000
+184,Sousse,Sousse,Sahloul,Villa,172,5,2,27,new,0,35.836309,10.611718,114.1,1,0,0,0,0,0,0,1,0,1,764000
+185,Bizerte,Mateur,Mateur,House,189,2,3,4,good,0,37.037677,9.663189,52.7,1,0,0,0,0,0,1,1,1,1,202000
+186,Gabès,Mareth,Mareth,Apartment,52,3,1,18,good,1,33.620105,10.291859,354.1,1,1,0,0,0,0,0,0,0,0,46000
+187,Ariana,Ariana,Centre Ariana,Apartment,129,4,2,7,good,5,36.866871,10.166075,6.8,1,0,0,0,0,1,1,1,1,1,419000
+188,Ben Arous,El Mourouj,El Mourouj,Apartment,121,1,1,17,good,6,36.728575,10.209944,9.0,0,0,0,0,0,0,0,1,1,1,193000
+189,Sousse,Port El Kantaoui,El Kantaoui,House,105,3,2,18,good,0,35.889784,10.592447,108.0,1,1,0,0,0,0,0,0,1,0,352000
+190,Tunis,Tunis,Centre Ville,Apartment,62,3,1,3,new,0,36.807877,10.183453,0.0,0,0,0,0,0,0,1,0,0,0,246000
+191,Ariana,Raoued,Raoued,Villa,218,5,2,30,good,0,36.864554,10.189285,6.6,1,1,1,0,0,0,0,1,1,1,598000
+192,Gabès,Gabès,Centre Gabès,Apartment,91,2,1,30,needs_renovation,5,33.880814,10.099159,324.8,0,0,0,0,0,1,0,0,0,1,69000
+193,Tunis,Tunis,El Menzah,Apartment,82,1,1,5,good,0,36.836677,10.161012,4.0,0,1,0,0,0,0,0,0,0,1,282000
+194,Sousse,Sousse,Sahloul,Apartment,63,4,1,9,good,6,35.839818,10.607697,114.1,1,1,1,0,0,1,0,1,0,0,225000
+195,Kébili,Kébili,Centre Kébili,Apartment,58,1,1,24,new,2,33.704259,8.969684,360.7,0,0,0,0,0,0,0,0,1,0,47000
+196,Tunis,La Marsa,La Marsa,Apartment,78,1,1,10,good,3,36.877845,10.323946,15.0,0,0,0,0,0,1,1,1,0,0,339000
+197,Médenine,Médenine,Centre Médenine,Apartment,166,1,1,0,good,2,33.354088,10.503443,384.2,0,0,0,0,0,0,0,0,1,1,157000
+198,Zaghouan,Zaghouan,Centre Zaghouan,Apartment,133,2,1,0,new,6,36.403869,10.144308,44.9,1,0,0,0,0,0,1,0,0,0,192000
+199,Kairouan,Kairouan,El Mansoura,Apartment,138,4,2,16,good,3,35.68182,10.110568,125.2,0,0,1,0,0,1,0,0,1,1,125000
+200,Le Kef,Le Kef,Centre Le Kef,Villa,376,7,4,12,good,0,36.175728,8.708275,148.8,1,1,0,0,0,0,1,1,1,1,426000
+201,Siliana,Siliana,Centre Siliana,Villa,270,4,2,20,good,0,36.083851,9.368761,107.7,1,0,1,0,0,0,0,0,0,1,261000
+202,Béja,Medjez el Bab,Medjez el Bab,Apartment,88,3,2,9,good,1,36.649683,9.610784,53.5,1,0,0,0,0,0,1,0,0,1,78000
+203,Ben Arous,Ben Arous,Centre Ben Arous,House,249,3,3,6,new,0,36.749647,10.226409,7.2,0,1,0,0,0,0,1,1,0,0,443000
+204,Médenine,Djerba Midoun,Midoun,Apartment,152,3,1,12,good,4,33.811342,10.992987,340.5,0,0,0,0,0,0,0,0,0,1,250000
+205,Béja,Béja,Centre Béja,Apartment,84,3,2,0,needs_renovation,3,36.723643,9.187329,89.3,0,0,0,1,0,1,0,0,1,1,79000
+206,Sousse,Sousse,Centre Sousse,House,184,4,2,8,needs_renovation,0,35.82945,10.640865,116.2,0,0,0,0,0,0,0,0,0,1,306000
+207,Sidi Bouzid,Sidi Bouzid,Centre Sidi Bouzid,Apartment,96,4,1,21,new,0,35.038673,9.483914,205.8,0,0,1,0,0,0,1,1,1,0,96000
+208,Zaghouan,El Fahs,El Fahs,Apartment,165,3,2,13,good,1,36.375301,9.901882,53.9,0,0,0,0,0,0,1,0,0,1,165000
+209,Kairouan,Kairouan,Centre Kairouan,House,238,3,2,16,good,0,35.675675,10.094389,125.5,0,1,0,0,0,0,0,0,0,0,185000
+210,Monastir,Monastir,Centre Monastir,Apartment,126,2,1,25,good,5,35.778092,10.824127,127.8,0,0,0,0,0,1,0,0,0,1,205000
+211,Mahdia,Mahdia,Centre Mahdia,House,160,2,1,1,needs_renovation,0,35.504075,11.059029,164.3,0,0,0,0,0,0,0,1,1,1,194000
+212,Sousse,Sousse,Centre Sousse,Apartment,72,2,2,12,good,2,35.823972,10.637254,116.2,0,0,0,0,0,0,0,1,1,0,158000
+213,Zaghouan,El Fahs,El Fahs,Villa,286,4,4,28,good,0,36.373777,9.90532,53.9,1,0,0,0,0,0,0,0,1,0,300000
+214,Sousse,Hammam Sousse,Hammam Sousse,House,192,2,2,1,good,0,35.860727,10.602855,111.5,1,1,0,0,0,0,0,1,1,1,487000
+215,Kairouan,Kairouan,Centre Kairouan,Apartment,52,4,2,14,good,6,35.678001,10.098995,125.5,0,0,0,0,0,1,0,0,1,1,43000
+216,Tataouine,Tataouine,Centre Tataouine,Apartment,122,4,1,1,new,5,32.931273,10.451722,431.0,0,0,0,1,0,1,1,0,0,1,128000
+217,Kébili,Kébili,Centre Kébili,Apartment,102,3,1,14,good,0,33.707104,8.968872,360.7,0,0,0,0,0,0,0,1,1,1,70000
+218,Gafsa,Gafsa,Centre Gafsa,House,249,5,3,27,good,0,34.421888,8.78753,292.1,0,0,0,0,0,0,0,1,0,1,162000
+219,Gabès,Gabès,Centre Gabès,House,173,5,1,28,good,0,33.881034,10.102031,324.8,0,1,0,0,0,0,1,0,0,1,165000
+220,Ariana,Ariana,Centre Ariana,Apartment,142,4,2,23,good,2,36.862635,10.161978,6.8,1,0,0,0,0,0,0,1,1,1,418000
+221,Bizerte,Mateur,Mateur,Apartment,57,4,1,13,good,5,37.039829,9.661122,52.7,0,0,0,0,0,1,0,0,0,0,61000
+222,Sousse,Port El Kantaoui,El Kantaoui,House,94,3,3,12,good,0,35.890716,10.593443,108.0,0,0,0,1,0,0,1,0,1,1,350000
+223,Manouba,Manouba,Centre Manouba,House,190,3,1,8,new,0,36.808798,10.099774,7.5,1,1,0,0,0,0,1,1,0,1,383000
+224,Manouba,Manouba,Centre Manouba,Apartment,53,2,1,30,good,2,36.807485,10.093583,7.5,0,0,0,0,0,0,0,1,1,0,68000
+225,Sousse,Sousse,Centre Sousse,House,161,5,2,17,good,0,35.823056,10.637694,116.2,1,0,1,0,0,0,0,1,0,1,346000
+226,Jendouba,Jendouba,Centre Jendouba,Apartment,54,2,2,13,good,6,36.499227,8.778387,129.1,0,0,0,1,0,1,0,0,1,1,54000
+227,Bizerte,Bizerte,Centre Bizerte,House,80,3,1,19,good,0,37.277497,9.87315,58.7,1,1,0,0,1,0,1,0,1,1,135000
+228,Jendouba,Jendouba,Centre Jendouba,Apartment,141,2,2,7,needs_renovation,0,36.501418,8.780002,129.1,0,0,0,0,0,0,1,0,0,1,103000
+229,Kairouan,Kairouan,Centre Kairouan,Apartment,71,3,2,23,good,4,35.677442,10.095788,125.5,0,0,0,0,0,1,0,0,0,1,56000
+230,Médenine,Houmt Souk,Houmt Souk,House,173,5,2,15,needs_renovation,0,33.875624,10.858092,330.8,1,0,0,0,0,0,0,1,0,1,215000
+231,Manouba,Manouba,Centre Manouba,Apartment,54,2,1,10,good,2,36.808184,10.09779,7.5,1,1,0,0,0,0,1,0,1,0,95000
+232,Le Kef,Le Kef,Centre Le Kef,Villa,304,7,4,22,new,0,36.171643,8.705703,148.8,0,0,0,0,0,0,1,1,1,1,314000
+233,Ben Arous,Hammam Lif,Hammam Lif,Apartment,103,3,2,17,good,1,36.725173,10.336321,16.6,1,1,0,0,0,0,1,1,0,0,180000
+234,Manouba,Manouba,Centre Manouba,Apartment,54,1,1,14,needs_renovation,3,36.806007,10.099705,7.5,0,1,0,0,0,0,1,1,1,1,67000
+235,Kébili,Kébili,Centre Kébili,Apartment,85,3,2,5,good,5,33.702156,8.966132,360.7,0,0,0,0,0,1,0,1,0,1,71000
+236,Ben Arous,Ben Arous,Centre Ben Arous,Apartment,101,2,1,27,good,1,36.754506,10.230474,7.2,0,0,0,0,0,0,0,1,1,1,161000
+237,Gafsa,Gafsa,Centre Gafsa,Apartment,50,4,2,13,good,4,34.427619,8.786881,292.1,0,0,0,0,0,0,1,1,0,0,39000
+238,Ariana,Raoued,Raoued,Apartment,87,4,1,12,good,3,36.867489,10.19155,6.6,1,0,0,0,0,1,0,1,0,0,199000
+239,Tozeur,Tozeur,Centre Tozeur,Apartment,155,2,1,20,good,0,33.918342,8.135523,368.5,0,0,0,0,0,0,0,1,0,0,143000
+240,Ben Arous,Ben Arous,Centre Ben Arous,House,178,5,2,5,good,0,36.753613,10.229374,7.2,1,0,0,0,0,0,0,0,1,0,325000
+241,Tunis,Tunis,Lafayette,Villa,329,5,3,9,needs_renovation,0,36.811662,10.176393,0.8,0,0,0,0,0,0,1,0,0,1,1127000
+242,Zaghouan,Zaghouan,Centre Zaghouan,Villa,299,3,2,16,good,0,36.400975,10.142601,44.9,0,0,0,1,0,0,0,1,0,1,354000
+243,Sousse,Sousse,Sahloul,Apartment,98,4,1,1,good,2,35.837803,10.61049,114.1,1,1,0,0,0,0,0,1,1,1,340000
+244,Tunis,Tunis,El Menzah,Apartment,54,1,1,6,good,4,36.839038,10.163909,4.0,0,0,0,0,0,0,1,1,0,1,143000
+245,Nabeul,Hammamet,Hammamet Nord,House,139,4,2,30,good,0,36.39763,10.617804,59.4,0,0,0,1,0,0,0,1,0,0,394000
+246,Bizerte,Mateur,Mateur,House,203,4,3,27,good,0,37.041118,9.666117,52.7,1,0,0,0,0,0,1,1,0,1,194000
+247,Nabeul,Hammamet,Hammamet Nord,Apartment,146,1,1,23,good,4,36.399391,10.616272,59.4,1,0,0,1,1,1,0,1,0,0,502000
+248,Kasserine,Kasserine,Centre Kasserine,House,229,5,1,29,good,0,35.166839,8.83934,217.7,0,1,0,0,0,0,0,1,1,1,166000
+249,Kairouan,Kairouan,El Mansoura,Apartment,107,3,2,22,good,3,35.677344,10.111067,125.2,1,0,0,0,1,1,1,1,0,0,78000
+250,Gabès,Mareth,Mareth,Villa,330,7,3,8,good,0,33.616978,10.29282,354.1,0,0,0,0,0,0,0,0,0,0,305000
+251,Le Kef,Le Kef,Centre Le Kef,Villa,245,7,2,18,new,0,36.175353,8.702893,148.8,1,0,1,0,0,0,0,1,0,1,328000
+252,Monastir,Monastir,Centre Monastir,House,168,5,2,12,good,0,35.779244,10.825513,127.8,0,0,0,1,0,0,0,0,0,1,311000
+253,Tunis,Tunis,Centre Ville,Apartment,130,4,2,7,good,1,36.805121,10.182338,0.0,1,0,0,0,0,0,0,0,1,0,387000
+254,Zaghouan,Zaghouan,Centre Zaghouan,House,90,3,3,7,new,0,36.401203,10.140803,44.9,0,1,0,0,0,0,0,1,1,1,110000
+255,Médenine,Houmt Souk,Houmt Souk,Villa,398,6,3,27,good,0,33.878035,10.860522,330.8,0,1,1,0,0,0,0,1,0,0,757000
+256,Mahdia,Ksour Essef,Ksour Essef,House,172,5,3,30,new,0,35.421688,10.994787,170.2,1,0,0,0,0,0,0,1,1,1,207000
+257,Mahdia,Mahdia,Centre Mahdia,Villa,199,3,4,16,good,0,35.505528,11.061316,164.3,1,1,0,0,0,0,0,1,1,0,366000
+258,Tunis,Tunis,Lafayette,Apartment,93,3,1,13,new,5,36.816183,10.176672,0.8,0,0,1,0,0,0,1,1,0,0,348000
+259,Monastir,Monastir,Centre Monastir,Apartment,145,3,1,29,good,5,35.775134,10.825315,127.8,1,0,0,0,0,1,1,0,1,1,252000
+260,Gafsa,Gafsa,Centre Gafsa,Villa,220,7,4,3,good,0,34.427244,8.784038,292.1,0,0,1,0,0,0,1,1,1,1,212000
+261,Bizerte,Bizerte,Centre Bizerte,Apartment,83,3,2,0,needs_renovation,3,37.278309,9.874605,58.7,0,0,0,0,0,1,1,0,1,0,134000
+262,Tozeur,Tozeur,Centre Tozeur,Apartment,125,1,1,11,needs_renovation,4,33.916672,8.133235,368.5,0,0,0,0,0,1,1,1,0,1,81000
+263,Médenine,Médenine,Centre Médenine,Apartment,152,2,2,19,good,1,33.353054,10.503176,384.2,1,0,0,0,0,0,0,0,0,1,114000
+264,Tunis,La Marsa,La Marsa,Apartment,149,3,1,23,good,4,36.87793,10.326193,15.0,0,0,0,0,0,1,0,1,0,1,707000
+265,Gabès,Mareth,Mareth,House,131,5,1,22,good,0,33.617623,10.289012,354.1,0,0,0,0,0,0,0,0,0,1,85000
+266,Tunis,La Marsa,La Marsa,Apartment,60,1,1,0,needs_renovation,4,36.878403,10.322545,15.0,0,1,1,0,0,1,0,1,1,1,238000
+267,Jendouba,Tabarka,Tabarka,Apartment,137,2,2,10,good,1,36.954293,8.760173,127.6,0,0,1,0,1,0,0,0,1,1,224000
+268,Sousse,Sousse,Sahloul,House,174,4,1,2,new,0,35.839516,10.610779,114.1,1,0,0,0,0,0,0,1,0,1,544000
+269,Médenine,Médenine,Centre Médenine,House,92,4,2,28,good,0,33.355547,10.502754,384.2,0,1,0,0,0,0,0,1,1,0,67000
+270,Zaghouan,Zaghouan,Centre Zaghouan,Villa,380,4,3,11,good,0,36.402561,10.145444,44.9,0,1,1,0,0,0,0,0,1,0,552000
+271,Monastir,Monastir,Centre Monastir,Apartment,132,3,1,6,needs_renovation,5,35.777377,10.824792,127.8,1,0,0,0,0,0,1,1,1,1,205000
+272,Sousse,Sousse,Sahloul,Apartment,53,3,1,5,good,3,35.838042,10.604612,114.1,0,1,0,0,0,1,0,0,1,1,168000
+273,Ben Arous,Hammam Lif,Hammam Lif,Villa,246,7,2,3,good,0,36.726532,10.341637,16.6,1,0,0,0,0,0,0,1,0,1,631000
+274,Gabès,Mareth,Mareth,House,128,4,1,1,new,0,33.620089,10.292725,354.1,1,0,0,0,0,0,1,0,0,0,128000
+275,Ariana,Ariana,Centre Ariana,Apartment,144,1,1,13,needs_renovation,5,36.868197,10.167792,6.8,0,0,0,0,0,1,0,0,0,1,315000
+276,Le Kef,Le Kef,Centre Le Kef,Apartment,103,1,1,10,good,3,36.172084,8.707494,148.8,0,0,0,0,0,1,1,0,0,1,88000
+277,Nabeul,Nabeul,Centre Nabeul,Apartment,141,4,1,8,good,5,36.459779,10.738377,62.9,0,0,0,0,0,1,0,0,0,1,347000
+278,Bizerte,Mateur,Mateur,Apartment,119,1,1,6,good,0,37.043039,9.663773,52.7,0,0,0,0,0,0,1,1,1,1,115000
+279,Médenine,Houmt Souk,Houmt Souk,Apartment,171,4,2,14,good,6,33.874558,10.85561,330.8,1,0,0,1,0,1,1,0,0,1,334000
+280,Jendouba,Jendouba,Centre Jendouba,Apartment,56,4,2,17,needs_renovation,2,36.501651,8.782842,129.1,0,0,0,0,0,0,0,1,0,1,42000
+281,Le Kef,Le Kef,Centre Le Kef,Apartment,87,4,1,13,needs_renovation,3,36.174731,8.703414,148.8,0,0,1,0,0,0,0,0,0,1,69000
+282,Gabès,Mareth,Mareth,Villa,272,6,3,0,good,0,33.619103,10.292853,354.1,1,0,0,0,0,0,0,1,0,0,281000
+283,Tunis,Tunis,Centre Ville,Villa,188,5,2,9,good,0,36.808759,10.180857,0.0,0,1,0,0,0,0,1,1,1,1,774000
+284,Tunis,Tunis,Centre Ville,Apartment,85,1,1,20,new,5,36.806343,10.181124,0.0,0,0,0,1,0,1,1,0,0,1,279000
+285,Sfax,Sfax,Centre Sfax,House,226,4,3,3,good,0,34.739507,10.760658,235.0,1,1,0,0,0,0,0,1,0,1,313000
+286,Médenine,Djerba Midoun,Midoun,Apartment,94,4,2,23,good,4,33.8063,10.989388,340.5,0,1,0,0,0,0,0,0,1,1,170000
+287,Kébili,Kébili,Centre Kébili,Villa,272,6,4,22,good,0,33.704808,8.971283,360.7,1,0,0,0,0,0,0,0,1,0,262000
+288,Le Kef,Le Kef,Centre Le Kef,Apartment,53,4,1,23,good,4,36.174068,8.705034,148.8,0,0,0,0,0,1,0,1,1,1,42000
+289,Médenine,Houmt Souk,Houmt Souk,House,126,3,2,19,new,0,33.874499,10.856595,330.8,1,0,0,0,0,0,1,0,1,1,239000
+290,Sfax,Sfax,Route El Ain,House,192,4,1,8,good,0,34.746928,10.697722,232.9,0,1,0,0,0,0,0,1,1,0,230000
+291,Mahdia,Mahdia,Centre Mahdia,Apartment,46,2,1,9,new,4,35.501508,11.063391,164.3,1,0,0,0,0,1,0,1,0,1,78000
+292,Sousse,Sousse,Centre Sousse,Apartment,78,2,1,10,good,3,35.826646,10.634702,116.2,1,1,0,1,0,0,0,1,0,1,194000
+293,Ben Arous,Hammam Lif,Hammam Lif,House,124,5,2,5,new,0,36.72629,10.340819,16.6,1,0,0,0,0,0,0,1,1,1,244000
+294,Sfax,Sfax,Centre Sfax,House,163,5,2,18,needs_renovation,0,34.741601,10.761014,235.0,0,0,0,1,1,0,0,1,1,1,176000
+295,Médenine,Houmt Souk,Houmt Souk,House,120,2,2,27,good,0,33.876446,10.860491,330.8,0,0,0,0,0,0,1,1,1,1,196000
+296,Sfax,Sfax,Route El Ain,Apartment,75,2,2,23,good,0,34.749678,10.703779,232.9,1,0,0,0,0,0,0,1,1,1,88000
+297,Tunis,Tunis,Lafayette,Apartment,93,1,1,15,good,2,36.813253,10.176509,0.8,0,0,0,0,0,0,1,1,1,1,254000
+298,Zaghouan,El Fahs,El Fahs,Villa,161,5,3,24,good,0,36.375323,9.906754,53.9,0,1,0,0,0,0,0,1,1,0,178000
+299,Manouba,Douar Hicher,Douar Hicher,Apartment,121,3,1,27,needs_renovation,4,36.832155,10.101313,7.5,1,0,0,0,0,1,0,1,0,0,140000
+300,Gafsa,Gafsa,Centre Gafsa,Apartment,52,3,2,17,good,2,34.422177,8.787549,292.1,0,0,1,0,1,0,0,1,0,0,39000
+301,Siliana,Siliana,Centre Siliana,Apartment,52,4,1,10,good,5,36.087224,9.372441,107.7,1,0,0,0,0,1,0,0,0,0,38000
+302,Ariana,Ariana,Centre Ariana,Apartment,53,2,1,16,good,4,36.864401,10.164694,6.8,0,0,0,0,0,1,0,0,0,1,129000
+303,Monastir,Monastir,Centre Monastir,Apartment,158,3,1,27,good,0,35.776409,10.826916,127.8,1,0,0,1,0,0,0,1,1,0,275000
+304,Nabeul,Korba,Korba,House,177,2,3,23,good,0,36.577323,10.858799,65.3,0,0,0,0,0,0,1,0,0,1,257000
+305,Ariana,Ariana,Ennasr,Apartment,90,4,1,2,new,6,36.860456,10.183244,6.2,0,0,0,0,0,1,0,1,1,1,324000
+306,Béja,Medjez el Bab,Medjez el Bab,Apartment,153,2,2,4,new,2,36.651307,9.6116,53.5,1,0,0,0,1,0,0,1,0,1,163000
+307,Ben Arous,Hammam Lif,Hammam Lif,Apartment,59,2,2,8,good,6,36.726921,10.340353,16.6,1,1,0,0,0,1,0,1,1,0,102000
+308,Sousse,Hammam Sousse,Hammam Sousse,Apartment,179,3,1,18,new,6,35.860093,10.605709,111.5,1,0,0,0,0,1,0,1,0,0,457000
+309,Médenine,Médenine,Centre Médenine,House,206,2,2,22,needs_renovation,0,33.356933,10.509964,384.2,1,0,0,0,0,0,1,1,0,1,122000
+310,Bizerte,Menzel Bourguiba,Menzel Bourguiba,House,194,5,2,8,good,0,37.151846,9.785458,52.2,1,1,0,0,0,0,0,0,1,1,277000
+311,Kébili,Kébili,Centre Kébili,Apartment,180,2,2,10,good,4,33.704043,8.967129,360.7,1,0,0,0,0,1,1,1,0,0,146000
+312,Zaghouan,El Fahs,El Fahs,Apartment,64,2,2,23,good,1,36.375968,9.905703,53.9,1,0,0,0,1,0,0,0,0,1,61000
+313,Nabeul,Nabeul,Centre Nabeul,Apartment,139,3,2,23,good,5,36.454335,10.738272,62.9,0,0,0,0,0,0,0,0,0,1,284000
+314,Ben Arous,Hammam Lif,Hammam Lif,Villa,265,7,3,29,good,0,36.730853,10.344419,16.6,0,0,1,0,0,0,1,0,1,1,609000
+315,Sidi Bouzid,Sidi Bouzid,Centre Sidi Bouzid,Apartment,157,4,2,27,good,5,35.036694,9.487545,205.8,0,1,0,0,0,1,0,0,0,1,151000
+316,Nabeul,Hammamet,Hammamet Sud,House,135,2,1,16,good,0,36.39811,10.615169,59.4,1,1,0,0,0,0,0,1,1,1,328000
+317,Sousse,Chott Meriem,Chott Meriem,House,131,3,2,0,needs_renovation,0,35.941977,10.562383,101.9,1,1,0,0,0,0,0,0,1,0,352000
+318,Tunis,Tunis,El Menzah,Apartment,93,4,2,9,good,2,36.840507,10.166089,4.0,1,0,0,0,0,0,0,1,1,0,281000
+319,Bizerte,Mateur,Mateur,Apartment,92,3,1,1,good,0,37.041591,9.666785,52.7,0,0,0,0,0,0,0,1,0,1,90000
+320,Nabeul,Hammamet,Hammamet Sud,House,89,2,3,14,good,0,36.398346,10.61669,59.4,1,0,0,1,0,0,0,1,0,1,234000
+321,Ariana,Raoued,Raoued,Apartment,171,2,1,27,needs_renovation,5,36.866614,10.189869,6.6,0,0,0,0,0,1,0,1,1,0,310000
+322,Médenine,Médenine,Centre Médenine,Apartment,131,3,2,3,good,2,33.352396,10.504972,384.2,0,0,0,0,0,0,0,0,1,1,128000
+323,Médenine,Médenine,Centre Médenine,Apartment,105,1,1,19,good,3,33.354276,10.506963,384.2,0,0,0,0,0,1,0,1,1,0,89000
+324,Bizerte,Mateur,Mateur,House,223,3,1,6,good,0,37.041917,9.664483,52.7,1,0,0,0,0,0,0,0,0,1,232000
+325,Sousse,Sousse,Centre Sousse,Apartment,89,2,2,5,good,1,35.823723,10.635551,116.2,1,0,0,1,0,0,1,0,1,1,234000
+326,Médenine,Médenine,Centre Médenine,Apartment,122,4,1,4,new,4,33.358416,10.503441,384.2,1,0,0,0,0,0,0,0,0,0,121000
+327,Le Kef,Le Kef,Centre Le Kef,House,91,3,2,15,good,0,36.174944,8.706749,148.8,1,0,0,0,0,0,1,0,0,0,83000
+328,Nabeul,Hammamet,Hammamet Sud,Villa,374,5,3,13,new,0,36.401592,10.620518,59.4,0,1,0,0,0,0,1,0,1,0,1462000
+329,Kairouan,Kairouan,El Mansoura,Apartment,131,2,1,9,good,1,35.677819,10.108515,125.2,1,0,0,0,0,0,0,1,1,1,89000
+330,Sousse,Sousse,Centre Sousse,Apartment,59,3,1,1,good,1,35.828451,10.638524,116.2,0,0,0,0,0,0,0,1,0,1,133000
+331,Bizerte,Menzel Bourguiba,Menzel Bourguiba,Apartment,95,2,2,6,needs_renovation,5,37.151691,9.783211,52.2,0,0,1,0,0,1,0,1,1,0,116000
+332,Sfax,Sfax,Route El Ain,Villa,318,4,3,17,good,0,34.749684,10.701121,232.9,0,1,0,0,0,0,0,1,0,1,530000
+333,Sousse,Hammam Sousse,Hammam Sousse,House,113,2,3,7,new,0,35.857574,10.602751,111.5,1,0,0,0,0,0,1,1,0,0,320000
+334,Kairouan,Kairouan,Centre Kairouan,Apartment,57,2,2,28,needs_renovation,5,35.678416,10.095171,125.5,0,0,0,0,0,1,0,1,1,0,36000
+335,Tunis,Carthage,Carthage,Apartment,136,4,2,24,needs_renovation,5,36.853557,10.329824,14.2,0,0,0,0,0,1,0,0,0,1,500000
+336,Sousse,Hammam Sousse,Hammam Sousse,House,85,4,3,24,needs_renovation,0,35.860945,10.60807,111.5,0,1,0,0,0,0,0,0,0,1,152000
+337,Manouba,Manouba,Centre Manouba,Apartment,64,2,1,0,new,0,36.808983,10.0923,7.5,0,0,0,0,0,0,0,1,1,1,129000
+338,Kébili,Kébili,Centre Kébili,Apartment,116,2,1,21,good,4,33.706554,8.970202,360.7,1,0,0,0,0,1,0,0,1,0,74000
+339,Ariana,Ariana,Ennasr,Apartment,138,1,1,3,good,0,36.863546,10.18389,6.2,0,0,0,0,0,0,0,1,0,0,421000
+340,Sousse,Sousse,Sahloul,Apartment,90,4,2,15,new,4,35.840742,10.611201,114.1,0,0,0,0,0,1,1,1,1,0,327000
+341,Sousse,Port El Kantaoui,El Kantaoui,House,204,2,2,16,good,0,35.891041,10.59201,108.0,0,1,0,0,0,0,0,1,1,0,689000
+342,Sousse,Sousse,Centre Sousse,House,126,2,2,3,needs_renovation,0,35.825905,10.638495,116.2,1,1,0,1,0,0,0,0,1,1,251000
+343,Médenine,Djerba Midoun,Midoun,Apartment,108,3,2,0,good,4,33.804437,10.994269,340.5,1,0,0,1,0,1,1,1,0,1,236000
+344,Monastir,Moknine,Moknine,Apartment,47,3,2,8,good,1,35.630477,10.903304,145.6,0,0,0,0,0,0,1,1,1,0,55000
+345,Manouba,Manouba,Centre Manouba,Apartment,140,4,1,3,needs_renovation,3,36.811221,10.102077,7.5,0,1,0,0,0,1,0,1,0,1,210000
+346,Kairouan,Kairouan,Centre Kairouan,Apartment,120,2,2,8,good,4,35.678156,10.095415,125.5,0,0,0,0,0,0,1,0,1,1,114000
+347,Sfax,Sfax,Route El Ain,Villa,307,4,4,9,good,0,34.748077,10.6997,232.9,1,0,1,0,0,0,0,0,0,0,529000
+348,Ben Arous,Ben Arous,Centre Ben Arous,House,89,4,2,23,good,0,36.752691,10.224219,7.2,1,1,1,0,0,0,0,0,0,1,158000
+349,Sousse,Hammam Sousse,Hammam Sousse,Apartment,176,3,1,7,good,0,35.858835,10.602441,111.5,0,0,0,0,0,0,1,1,0,0,380000
+350,Nabeul,Hammamet,Hammamet Sud,Apartment,63,3,1,25,good,4,36.402274,10.61933,59.4,1,0,0,0,0,1,0,1,0,0,155000
+351,Sousse,Port El Kantaoui,El Kantaoui,Villa,233,7,3,14,new,0,35.891355,10.594045,108.0,0,1,1,0,0,0,0,0,0,0,1499000
+352,Kairouan,Kairouan,Centre Kairouan,Apartment,61,4,1,13,good,5,35.679757,10.099712,125.5,0,0,0,0,0,0,0,0,0,1,52000
+353,Nabeul,Nabeul,Centre Nabeul,Apartment,61,4,2,11,needs_renovation,6,36.455621,10.737705,62.9,1,0,0,0,0,1,1,0,0,1,141000
+354,Monastir,Monastir,Centre Monastir,Apartment,103,1,1,26,good,1,35.782421,10.823791,127.8,1,0,0,1,0,0,0,0,0,1,198000
+355,Tunis,Tunis,El Menzah,Apartment,48,2,2,4,needs_renovation,0,36.841222,10.161021,4.0,1,0,0,0,0,0,0,0,1,1,145000
+356,Tunis,Tunis,Lafayette,Apartment,138,4,2,15,good,5,36.810177,10.177561,0.8,1,1,0,0,0,1,0,0,1,1,453000
+357,Zaghouan,El Fahs,El Fahs,House,126,5,3,13,needs_renovation,0,36.3738,9.904399,53.9,0,1,0,0,0,0,0,1,1,1,96000
+358,Kairouan,Kairouan,Centre Kairouan,Apartment,162,1,1,1,good,0,35.678462,10.095308,125.5,1,1,0,0,0,0,1,1,0,1,150000
+359,Sousse,Chott Meriem,Chott Meriem,Apartment,82,4,2,5,good,1,35.94109,10.557993,101.9,1,0,0,0,0,0,0,0,0,0,222000
+360,Béja,Medjez el Bab,Medjez el Bab,Apartment,172,2,2,13,new,3,36.650927,9.609327,53.5,1,0,0,0,0,1,0,1,0,0,163000
+361,Béja,Medjez el Bab,Medjez el Bab,Apartment,121,2,2,13,good,1,36.653966,9.611876,53.5,0,0,0,0,0,0,0,1,0,0,106000
+362,Kébili,Kébili,Centre Kébili,House,213,4,1,26,new,0,33.703926,8.966896,360.7,1,1,1,0,0,0,0,0,1,1,194000
+363,Bizerte,Menzel Bourguiba,Menzel Bourguiba,Apartment,98,4,1,4,new,5,37.155591,9.78558,52.2,0,0,0,0,0,1,1,1,0,1,141000
+364,Kasserine,Kasserine,Centre Kasserine,Apartment,114,4,1,4,good,2,35.166229,8.836938,217.7,0,0,0,0,0,0,0,1,1,1,105000
+365,Tunis,Tunis,El Menzah,Apartment,69,1,1,24,new,3,36.844892,10.16731,4.0,0,0,0,0,0,0,0,1,1,1,225000
+366,Tunis,La Marsa,La Marsa,Apartment,57,4,1,4,new,3,36.875297,10.326263,15.0,0,1,0,0,1,1,1,1,0,1,323000
+367,Monastir,Monastir,Centre Monastir,House,112,4,2,1,good,0,35.780349,10.826911,127.8,1,1,0,0,0,0,0,0,0,0,231000
+368,Gafsa,Gafsa,Centre Gafsa,Apartment,179,1,1,24,good,6,34.421678,8.783491,292.1,0,0,0,0,0,1,0,1,0,1,151000
+369,Sousse,Hammam Sousse,Hammam Sousse,House,87,5,3,4,good,0,35.859373,10.600597,111.5,1,0,0,0,0,0,0,0,1,1,179000
+370,Mahdia,Mahdia,Centre Mahdia,Apartment,123,1,1,7,good,0,35.504832,11.065629,164.3,0,0,0,0,0,0,0,1,1,1,184000
+371,Gafsa,Gafsa,Centre Gafsa,Apartment,164,3,2,29,good,3,34.423337,8.78449,292.1,0,0,0,0,0,1,0,1,0,1,139000
+372,Le Kef,Le Kef,Centre Le Kef,Apartment,103,1,1,29,good,6,36.174183,8.703577,148.8,1,0,0,0,0,1,0,1,0,0,80000
+373,Sfax,Sfax,Route Teniour,House,159,2,3,11,good,0,34.748617,10.789687,235.1,1,0,0,0,0,0,1,0,1,1,229000
+374,Sousse,Hammam Sousse,Hammam Sousse,House,159,2,1,17,good,0,35.860482,10.602465,111.5,1,1,1,0,0,0,0,1,0,0,420000
+375,Siliana,Siliana,Centre Siliana,Villa,253,5,3,28,good,0,36.085758,9.373063,107.7,1,0,0,0,1,0,1,1,0,0,230000
+376,Ben Arous,Ben Arous,Centre Ben Arous,Apartment,171,2,2,13,new,4,36.753664,10.225439,7.2,0,0,0,0,0,1,0,0,0,0,286000
+377,Médenine,Houmt Souk,Houmt Souk,Apartment,46,3,1,23,good,0,33.874365,10.857024,330.8,0,0,0,0,0,0,0,1,0,1,83000
+378,Nabeul,Hammamet,Hammamet Sud,House,149,5,2,7,good,0,36.403522,10.620597,59.4,0,0,0,1,0,0,0,0,0,1,409000
+379,Sousse,Chott Meriem,Chott Meriem,Apartment,148,4,2,24,needs_renovation,5,35.939503,10.556433,101.9,1,0,1,1,0,0,0,1,0,0,460000
+380,Ben Arous,El Mourouj,El Mourouj,House,143,4,3,2,good,0,36.727518,10.206766,9.0,0,0,1,0,0,0,0,1,0,1,257000
+381,Zaghouan,Zaghouan,Centre Zaghouan,Apartment,131,3,2,20,good,2,36.402207,10.146323,44.9,0,0,1,1,0,0,1,1,0,1,153000
+382,Nabeul,Korba,Korba,House,211,2,2,13,new,0,36.57681,10.860055,65.3,1,0,0,0,0,0,0,0,1,0,382000
+383,Tunis,Tunis,Lafayette,Apartment,143,2,2,11,needs_renovation,1,36.809944,10.177443,0.8,1,0,0,0,0,0,0,1,0,1,330000
+384,Tataouine,Tataouine,Centre Tataouine,House,198,5,2,19,needs_renovation,0,32.926505,10.449772,431.0,0,0,0,0,0,0,0,1,0,1,104000
+385,Sousse,Sousse,Centre Sousse,House,120,2,2,14,good,0,35.828084,10.636375,116.2,1,0,0,0,0,0,0,1,0,1,201000
+386,Bizerte,Mateur,Mateur,Apartment,57,3,1,26,good,0,37.043443,9.668244,52.7,1,0,0,0,0,0,0,1,1,1,56000
+387,Monastir,Moknine,Moknine,Apartment,62,1,1,26,good,0,35.629448,10.906512,145.6,0,0,1,0,0,0,0,1,0,1,77000
+388,Nabeul,Hammamet,Hammamet Nord,Villa,309,5,2,24,good,0,36.398911,10.616205,59.4,1,0,0,0,0,0,0,1,0,1,999000
+389,Tataouine,Tataouine,Centre Tataouine,Apartment,169,3,2,18,good,6,32.929619,10.453536,431.0,0,0,0,0,0,1,0,0,1,1,96000
+390,Sfax,Sfax,Centre Sfax,Apartment,154,1,1,5,needs_renovation,0,34.740325,10.756445,235.0,1,0,0,1,0,0,0,1,1,0,205000
+391,Bizerte,Bizerte,Centre Bizerte,House,172,2,1,10,needs_renovation,0,37.269708,9.873319,58.7,0,0,0,0,0,0,0,1,0,0,260000
+392,Kasserine,Kasserine,Centre Kasserine,Apartment,120,2,2,14,new,6,35.170976,8.830832,217.7,0,0,0,0,0,1,0,1,1,0,97000
+393,Bizerte,Mateur,Mateur,House,223,3,2,26,good,0,37.042523,9.666182,52.7,1,1,0,0,0,0,0,1,1,0,202000
+394,Bizerte,Menzel Bourguiba,Menzel Bourguiba,Apartment,128,4,1,0,good,1,37.153106,9.785324,52.2,1,0,0,0,0,0,1,1,1,1,166000
+395,Sfax,Sfax,Route El Ain,Apartment,48,4,2,28,good,5,34.752532,10.701767,232.9,0,0,0,0,0,0,1,0,0,0,57000
+396,Tunis,La Marsa,La Marsa,Apartment,50,2,1,18,good,6,36.878135,10.326908,15.0,0,0,0,0,0,1,0,0,1,1,212000
+397,Tozeur,Tozeur,Centre Tozeur,House,202,5,1,26,good,0,33.918792,8.130828,368.5,1,0,0,0,0,0,0,0,0,1,177000
+398,Gabès,Gabès,Centre Gabès,Villa,239,4,4,23,needs_renovation,0,33.878178,10.099839,324.8,1,0,1,0,0,0,1,1,1,1,230000
+399,Siliana,Siliana,Centre Siliana,House,247,5,1,15,new,0,36.08437,9.369963,107.7,0,0,1,0,0,0,0,0,0,1,210000
+400,Nabeul,Nabeul,Centre Nabeul,House,89,3,3,27,good,0,36.453063,10.734832,62.9,0,0,0,0,0,0,0,1,1,1,178000
+401,Médenine,Djerba Midoun,Midoun,Apartment,89,1,1,0,good,2,33.807069,10.99135,340.5,1,0,0,0,0,0,1,0,1,1,162000
+402,Sousse,Port El Kantaoui,El Kantaoui,House,176,3,2,9,good,0,35.889017,10.591707,108.0,1,0,1,0,0,0,1,0,1,1,628000
+403,Béja,Medjez el Bab,Medjez el Bab,Apartment,140,2,2,18,good,1,36.649499,9.611338,53.5,1,1,0,0,0,0,1,1,0,1,133000
+404,Sousse,Sousse,Centre Sousse,Apartment,54,2,2,25,good,5,35.826921,10.636869,116.2,0,0,0,0,0,0,0,0,0,0,102000
+405,Sfax,Sfax,Route El Ain,House,180,3,2,15,good,0,34.752765,10.699292,232.9,1,1,0,0,0,0,1,0,1,0,229000
+406,Médenine,Médenine,Centre Médenine,Apartment,121,4,1,8,good,4,33.354837,10.503192,384.2,0,0,0,0,0,1,0,0,0,0,118000
+407,Tunis,Tunis,El Menzah,Apartment,109,4,2,4,needs_renovation,2,36.840769,10.161569,4.0,0,0,0,0,0,0,0,1,0,1,315000
+408,Monastir,Monastir,Centre Monastir,Villa,204,4,3,25,needs_renovation,0,35.777495,10.826288,127.8,1,0,0,0,0,0,0,0,1,0,316000
+409,Tunis,Tunis,El Menzah,Apartment,171,1,1,2,needs_renovation,1,36.839527,10.165111,4.0,0,0,0,0,0,0,0,1,0,0,427000
+410,Mahdia,Mahdia,Centre Mahdia,House,157,2,1,7,good,0,35.499376,11.056074,164.3,1,0,1,1,1,0,0,1,0,1,251000
+411,Tunis,Tunis,Centre Ville,Apartment,170,2,2,3,good,1,36.809593,10.181653,0.0,1,0,0,0,0,0,1,1,1,1,505000
+412,Sidi Bouzid,Sidi Bouzid,Centre Sidi Bouzid,Villa,169,6,2,6,new,0,35.037227,9.485802,205.8,1,0,0,0,0,0,0,1,0,1,211000
+413,Tunis,Carthage,Carthage,Villa,239,7,2,29,good,0,36.852615,10.3283,14.2,1,1,1,0,0,0,1,1,0,0,1539000
+414,Kasserine,Kasserine,Centre Kasserine,Apartment,99,3,1,24,good,5,35.166414,8.83787,217.7,1,0,0,0,0,0,0,0,1,1,77000
+415,Manouba,Douar Hicher,Douar Hicher,Apartment,141,3,2,25,good,6,36.83041,10.099197,7.5,0,0,0,0,0,1,1,1,1,1,174000
+416,Sousse,Port El Kantaoui,El Kantaoui,Apartment,104,1,1,28,good,6,35.894911,10.595519,108.0,0,0,0,0,1,1,0,0,1,0,365000
+417,Tozeur,Tozeur,Centre Tozeur,Apartment,180,4,1,26,good,5,33.922616,8.134101,368.5,0,0,0,0,0,1,1,0,1,1,177000
+418,Bizerte,Mateur,Mateur,Villa,164,5,4,4,good,0,37.038881,9.664106,52.7,0,0,0,0,0,0,0,0,0,0,240000
+419,Zaghouan,Zaghouan,Centre Zaghouan,House,140,3,1,17,good,0,36.400812,10.143052,44.9,0,1,0,0,0,0,1,1,1,1,143000
+420,Bizerte,Bizerte,Centre Bizerte,Villa,170,7,4,18,good,0,37.274704,9.872577,58.7,1,0,0,0,0,0,1,1,1,1,376000
+421,Zaghouan,Zaghouan,Centre Zaghouan,Apartment,97,4,1,29,new,2,36.402539,10.146261,44.9,0,0,0,0,0,0,1,1,0,1,124000
+422,Médenine,Médenine,Centre Médenine,Apartment,178,4,2,20,good,3,33.355448,10.507495,384.2,0,0,0,0,0,1,1,1,1,1,160000
+423,Sfax,Sfax,Route Teniour,Apartment,151,4,2,9,good,5,34.746872,10.785672,235.1,0,0,0,0,0,1,0,1,0,1,244000
+424,Ben Arous,Hammam Lif,Hammam Lif,Villa,142,3,4,24,good,0,36.72773,10.342751,16.6,1,0,0,0,0,0,0,1,1,1,321000
+425,Tataouine,Tataouine,Centre Tataouine,Apartment,119,4,2,4,good,0,32.930459,10.454278,431.0,0,0,0,0,0,0,0,0,1,1,88000
+426,Jendouba,Tabarka,Tabarka,House,206,2,1,22,new,0,36.954789,8.755711,127.6,0,0,0,0,0,0,1,0,1,1,300000
+427,Ben Arous,Ben Arous,Centre Ben Arous,House,85,2,2,28,good,0,36.752719,10.227153,7.2,1,0,0,0,0,0,0,1,0,1,129000
+428,Ariana,Ariana,Ennasr,House,148,3,1,18,needs_renovation,0,36.86337,10.184111,6.2,0,1,0,0,0,0,1,1,1,0,405000
+429,Ben Arous,El Mourouj,El Mourouj,Apartment,124,1,1,2,good,6,36.728826,10.206334,9.0,0,0,0,0,0,1,0,1,0,1,213000
+430,Tunis,Tunis,Centre Ville,Apartment,91,3,1,9,new,0,36.807005,10.181908,0.0,1,0,0,0,0,0,0,1,0,1,312000
+431,Bizerte,Bizerte,Centre Bizerte,Apartment,156,1,1,2,new,5,37.275878,9.874975,58.7,0,0,0,0,0,0,0,0,0,1,340000
+432,Sfax,Sfax,Centre Sfax,Apartment,130,4,1,1,new,1,34.74043,10.758549,235.0,0,0,1,0,0,0,1,1,1,1,238000
+433,Sfax,Sfax,Centre Sfax,Villa,191,6,4,16,good,0,34.738355,10.758944,235.0,1,0,0,0,0,0,1,0,0,1,373000
+434,Sousse,Sousse,Sahloul,House,192,3,1,3,good,0,35.836997,10.608062,114.1,1,1,0,0,0,0,1,1,0,1,624000
+435,Médenine,Médenine,Centre Médenine,House,205,4,2,4,new,0,33.355742,10.50442,384.2,1,1,0,0,0,0,1,0,0,0,224000
+436,Bizerte,Bizerte,Centre Bizerte,Apartment,95,2,1,16,good,1,37.272505,9.873005,58.7,0,0,0,0,0,0,0,0,0,1,177000
+437,Kasserine,Kasserine,Centre Kasserine,Apartment,174,3,1,0,good,1,35.16711,8.836598,217.7,0,0,0,0,0,0,0,1,1,1,138000
+438,Nabeul,Nabeul,Centre Nabeul,House,236,2,3,11,good,0,36.459358,10.737638,62.9,1,1,0,0,0,0,1,0,0,0,486000
+439,Nabeul,Hammamet,Hammamet Sud,House,160,2,1,15,good,0,36.399094,10.614625,59.4,1,1,0,0,0,0,0,0,0,1,401000
+440,Jendouba,Tabarka,Tabarka,Apartment,142,1,1,26,good,6,36.950685,8.760574,127.6,1,0,0,0,0,1,1,1,1,0,215000
+441,Bizerte,Bizerte,Centre Bizerte,Apartment,139,1,1,7,needs_renovation,2,37.273587,9.872975,58.7,0,0,0,0,0,0,1,0,1,1,203000
+442,Nabeul,Hammamet,Hammamet Sud,Apartment,60,2,2,17,good,4,36.399487,10.616561,59.4,0,0,0,0,0,1,1,0,0,0,130000
+443,Tataouine,Tataouine,Centre Tataouine,House,86,2,3,12,good,0,32.930845,10.453615,431.0,0,1,0,1,0,0,1,0,0,1,61000
+444,Tozeur,Tozeur,Centre Tozeur,House,244,3,1,4,needs_renovation,0,33.918759,8.135347,368.5,0,1,0,0,0,0,0,0,0,1,181000
+445,Tunis,Tunis,El Menzah,Villa,400,3,3,12,needs_renovation,0,36.842097,10.163261,4.0,0,0,1,0,0,0,1,0,0,0,1419000
+446,Kasserine,Kasserine,Centre Kasserine,House,111,4,3,26,good,0,35.169778,8.836922,217.7,0,1,0,0,0,0,0,1,0,0,76000
+447,Sousse,Sousse,Sahloul,Apartment,123,3,1,21,needs_renovation,3,35.836402,10.61024,114.1,0,1,0,1,0,1,1,0,0,1,337000
+448,Béja,Béja,Centre Béja,Apartment,116,2,1,6,good,5,36.72535,9.181936,89.3,1,0,0,0,0,0,0,0,0,1,118000
+449,Kairouan,Kairouan,Centre Kairouan,Apartment,179,4,2,18,good,2,35.677073,10.092719,125.5,0,0,0,0,0,0,0,0,0,0,152000
+450,Zaghouan,Zaghouan,Centre Zaghouan,Apartment,136,2,1,1,good,0,36.404821,10.142634,44.9,0,0,0,0,1,0,0,1,0,1,158000
+451,Tunis,Tunis,El Menzah,Apartment,103,1,1,5,good,4,36.837004,10.167805,4.0,0,0,0,0,0,1,1,1,1,1,330000
+452,Bizerte,Bizerte,Centre Bizerte,Apartment,121,2,2,26,good,6,37.274951,9.87527,58.7,0,0,0,0,0,1,0,1,1,0,209000
+453,Ariana,Ariana,Ennasr,Apartment,151,2,2,25,needs_renovation,1,36.863032,10.187532,6.2,0,0,0,0,0,0,1,0,0,1,366000
+454,Sfax,Sfax,Centre Sfax,Apartment,84,2,1,17,good,5,34.739684,10.761731,235.0,1,0,1,0,0,1,0,1,0,0,134000
+455,Tataouine,Tataouine,Centre Tataouine,Apartment,106,1,1,13,good,6,32.931403,10.451786,431.0,0,0,0,0,0,1,1,1,0,0,64000
+456,Gabès,Mareth,Mareth,Apartment,69,4,2,4,good,5,33.619496,10.291467,354.1,0,0,0,0,0,0,0,1,0,1,66000
+457,Sfax,Sfax,Centre Sfax,House,102,4,3,18,good,0,34.741924,10.75948,235.0,1,0,0,0,0,0,0,1,0,1,153000
+458,Nabeul,Nabeul,Centre Nabeul,Apartment,99,4,2,5,needs_renovation,3,36.455001,10.735384,62.9,0,0,0,0,0,1,1,0,0,1,211000
+459,Sousse,Chott Meriem,Chott Meriem,Apartment,61,3,2,8,good,0,35.942072,10.558789,101.9,0,0,0,0,0,0,0,1,0,1,219000
+460,Monastir,Monastir,Centre Monastir,Apartment,166,2,1,23,good,2,35.778007,10.826713,127.8,1,0,0,0,0,0,1,1,1,1,285000
+461,Tunis,Tunis,Centre Ville,Villa,173,4,3,0,good,0,36.805896,10.181682,0.0,0,1,0,0,0,0,1,1,0,0,582000
+462,Sfax,Sfax,Centre Sfax,House,192,2,1,23,good,0,34.737987,10.760641,235.0,1,0,0,0,0,0,0,0,1,1,211000
+463,Gafsa,Gafsa,Centre Gafsa,Apartment,103,4,2,27,needs_renovation,5,34.424949,8.785324,292.1,0,0,0,0,0,1,0,0,0,0,65000
+464,Médenine,Médenine,Centre Médenine,Apartment,54,3,2,2,new,1,33.354874,10.506123,384.2,1,0,0,0,0,0,1,0,1,1,49000
+465,Sousse,Sousse,Sahloul,Apartment,164,2,1,28,good,4,35.836919,10.609517,114.1,1,0,0,1,0,0,0,1,1,0,514000
+466,Sousse,Sousse,Centre Sousse,House,195,4,2,26,new,0,35.826794,10.636231,116.2,1,0,0,0,0,0,0,1,0,0,417000
+467,Ariana,Raoued,Raoued,Villa,373,4,4,18,good,0,36.865708,10.187246,6.6,0,0,0,0,0,0,0,0,0,1,1024000
+468,Mahdia,Ksour Essef,Ksour Essef,Apartment,135,4,2,17,needs_renovation,6,35.418034,10.995992,170.2,0,0,0,0,0,1,0,0,0,0,137000
+469,Nabeul,Hammamet,Hammamet Nord,House,110,4,1,10,good,0,36.397376,10.619213,59.4,1,1,0,0,0,0,0,1,0,1,328000
+470,Ariana,Raoued,Raoued,Apartment,121,2,1,21,good,6,36.865223,10.188515,6.6,1,0,0,0,0,1,0,0,0,0,221000
+471,Médenine,Djerba Midoun,Midoun,House,147,5,3,23,needs_renovation,0,33.80761,10.991952,340.5,0,0,0,0,0,0,0,0,0,1,207000
+472,Monastir,Monastir,Centre Monastir,Apartment,161,1,1,8,good,6,35.774235,10.827443,127.8,1,0,0,0,0,1,0,1,1,0,247000
+473,Sfax,Sfax,Centre Sfax,House,101,5,3,6,good,0,34.742083,10.76145,235.0,1,1,0,0,0,0,1,0,1,0,148000
+474,Ben Arous,El Mourouj,El Mourouj,Apartment,106,3,1,22,good,3,36.72415,10.205295,9.0,0,0,0,0,0,1,1,1,0,0,154000
+475,Tunis,Tunis,El Menzah,House,143,3,3,17,good,0,36.841537,10.164521,4.0,1,0,0,0,0,0,0,0,0,1,457000
+476,Tunis,Carthage,Carthage,House,151,2,1,13,good,0,36.852521,10.330669,14.2,1,1,0,1,0,0,1,0,0,1,592000
+477,Mahdia,Ksour Essef,Ksour Essef,House,168,5,1,19,needs_renovation,0,35.417465,10.995317,170.2,0,1,0,0,0,0,1,1,0,1,158000
+478,Médenine,Djerba Midoun,Midoun,Apartment,72,4,2,21,good,4,33.80828,10.990712,340.5,1,0,0,0,0,1,0,1,1,1,120000
+479,Tozeur,Tozeur,Centre Tozeur,Apartment,95,2,2,12,good,5,33.919898,8.131912,368.5,1,0,0,0,1,0,0,0,1,1,78000
+480,Médenine,Houmt Souk,Houmt Souk,Apartment,85,3,1,20,good,2,33.874813,10.855639,330.8,0,0,0,0,0,0,0,0,1,1,145000
+481,Gafsa,Gafsa,Centre Gafsa,Apartment,151,1,1,28,good,2,34.424052,8.784455,292.1,0,0,0,0,0,0,0,1,1,0,123000
+482,Ariana,Raoued,Raoued,House,208,3,3,1,needs_renovation,0,36.864735,10.192527,6.6,0,1,0,0,0,0,1,1,1,1,409000
+483,Tunis,Carthage,Carthage,Apartment,138,3,2,18,good,1,36.854217,10.327236,14.2,0,0,0,0,0,0,0,0,0,0,643000
+484,Bizerte,Menzel Bourguiba,Menzel Bourguiba,Villa,180,6,4,27,good,0,37.154914,9.784195,52.2,1,0,0,0,0,0,1,1,0,1,307000
+485,Nabeul,Hammamet,Hammamet Nord,Apartment,144,1,1,30,needs_renovation,5,36.402675,10.616602,59.4,1,0,0,0,0,1,0,1,1,1,328000
+486,Gabès,Gabès,Centre Gabès,House,100,3,3,19,needs_renovation,0,33.882005,10.100045,324.8,0,1,1,0,0,0,1,1,0,0,85000
+487,Bizerte,Bizerte,Centre Bizerte,Apartment,150,4,1,26,good,5,37.275309,9.87692,58.7,0,0,0,0,0,1,0,1,0,1,275000
+488,Monastir,Monastir,Centre Monastir,Apartment,74,3,1,20,good,3,35.776613,10.822713,127.8,0,0,1,1,0,1,1,0,0,0,128000
+489,Gabès,Gabès,Centre Gabès,Villa,146,3,4,5,needs_renovation,0,33.880061,10.097547,324.8,1,1,0,0,0,0,0,1,0,1,147000
+490,Nabeul,Nabeul,Centre Nabeul,House,188,2,3,5,good,0,36.457422,10.738,62.9,1,1,0,0,0,0,1,1,1,1,395000
+491,Gabès,Gabès,Centre Gabès,Apartment,94,2,1,21,new,0,33.880796,10.095953,324.8,0,0,0,0,0,0,0,1,1,1,102000
+492,Kairouan,Kairouan,Centre Kairouan,Villa,318,6,4,21,good,0,35.676862,10.094493,125.5,0,1,1,0,0,0,0,0,0,1,316000
+493,Ariana,Raoued,Raoued,House,138,4,3,17,needs_renovation,0,36.866822,10.190397,6.6,0,1,1,0,0,0,0,0,0,0,263000
+494,Manouba,Douar Hicher,Douar Hicher,Apartment,46,2,1,12,needs_renovation,5,36.829596,10.102311,7.5,0,1,0,0,0,1,0,1,1,0,58000
+495,Tunis,Tunis,El Menzah,House,85,5,2,20,good,0,36.840962,10.165619,4.0,0,0,0,0,0,0,0,1,0,1,269000
+496,Bizerte,Menzel Bourguiba,Menzel Bourguiba,House,119,3,2,1,good,0,37.155525,9.783699,52.2,1,1,0,0,0,0,0,0,0,0,151000
+497,Nabeul,Hammamet,Hammamet Nord,Apartment,45,4,2,18,good,0,36.397206,10.617738,59.4,0,0,1,0,0,0,1,0,1,1,160000
+498,Ben Arous,Ben Arous,Centre Ben Arous,Villa,226,4,2,16,good,0,36.754494,10.227713,7.2,0,1,0,0,0,0,0,1,0,1,489000
+499,Tunis,Tunis,Lafayette,House,222,2,3,29,good,0,36.814333,10.175808,0.8,0,1,0,0,0,0,0,0,1,1,585000
+500,Mahdia,Mahdia,Centre Mahdia,Apartment,177,4,2,10,good,6,35.503185,11.057425,164.3,0,0,0,1,0,1,0,0,0,0,261000
